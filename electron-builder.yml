@@ -2,7 +2,7 @@ appId: 'Vadoria'
 productName: 'Vadoria'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 DScalzi & Nylun'
+copyright: 'Copyright © 2018-2022 Daniel Scalzi'
 
 asar: true
 compression: 'maximum'
@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi & Nylun'
-  vendor: 'Daniel Scalzi & Nylun'
+  maintainer: 'Daniel Scalzi'
+  vendor: 'Nylun'
   synopsis: 'Vadoria'
   description: 'Launcher PvP Faction moddée.'
   category: 'Game'
